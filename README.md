@@ -4,6 +4,8 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=solitariewolf&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solitariewolf&hide_progress=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
