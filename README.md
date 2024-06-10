@@ -1,8 +1,13 @@
 ## Olá! Eu sou o SolitarieWolf 🖐️
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=solitariewolf&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solitariewolf&show_icons=true&theme=dracula&count_progress=true)
+<a href="https://github.com/solitariewolf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solitariewolf&show_icons=true&theme=dracula&count_private=true&layout=compact" />
+</a>
+<a href="https://github.com/solitariewolf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solitariewolf&show_icons=true&theme=dracula&count_progress=true&layout=compact" />
+</a>
+
 
 ## Tecnologias que eu uso no meu dia
 
